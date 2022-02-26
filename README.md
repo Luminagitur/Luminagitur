@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi, I'm Philip  
+- 🌱 I´m currently learning Flutter :heart:  
+- :books: I also have knowledge in Java and SQL  
+- 📫 How to reach me: [Discord](https://discordapp.com/users/322814803007766529)
 
 <!--
 **Luminagitur/Luminagitur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
